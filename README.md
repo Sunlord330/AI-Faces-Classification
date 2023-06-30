@@ -5,7 +5,7 @@ DetectNet "detects" your emotion
 
 ## The Algorithm
 
-I used premade Python code from JupyterLab and put fifty pictures of my face in each category
+I used premade Python code from JupyterLab. 
 
 ## Running this project
 **Important** You will **need** a Jetson Nano, PuTTY (also make sure to never update the Jetson Nano, this will corrupt it)
