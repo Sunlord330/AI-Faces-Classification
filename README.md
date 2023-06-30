@@ -25,4 +25,4 @@ Serial line: COM4, Speed: 9600
 14. Then scroll down to task and uncomment # TASK = 'emotions', and # CATEGORIES = ['none', 'happy', 'sad', 'angry'] and comment TASK = 'thumbs', and CATEGORIES = ['thumbs_up', 'thumbs_down']
 15. then run all the cells and enjoy!!!
 
-[View a video explanation here](video link)
+[View a video explanation here] (https://youtu.be/nQomChuHV9g)
